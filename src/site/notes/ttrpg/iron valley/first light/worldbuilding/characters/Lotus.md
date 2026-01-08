@@ -9,12 +9,15 @@ Gender Presentation: Feminine
 Birthday: Winter 25
 Why did you leave the big city?
 - I received a mysterious transmission from an unknown sender.
+
 Where are you staying in town?
 - I got coordinates from the transmission. It says it's an old farmhouse.
+
 What's in your backpack?
 - Letter from a relative
 - Cup that maintains liquid at perfect temperature
 - Fingerless leather gloves with rhinestones
+
 How long do you plan to stay?
 - At least one month.
 
