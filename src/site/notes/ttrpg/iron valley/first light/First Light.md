@@ -15,7 +15,7 @@ tone: eerie but lighthearted
 notes: Writing as I go, I only had the hook ready.
 
 >[!error] Content Warnings
->- death
+>- discussions of death and the afterlife
 
 ---
 
