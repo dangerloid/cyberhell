@@ -28,4 +28,4 @@ notes: Writing as I go, I only had the hook ready.
 - [[Oak Aerie\|Oak Aerie]]
 
 ---
-## Post Campaign Notes
+## Post-Campaign Notes

@@ -12,11 +12,11 @@
 - [Ironsworn](https://shawn-tomkin.itch.io/ironsworn)
 - [Rune](https://gilarpgs.itch.io/rune)
 - [Ker Nethalas](https://blackoath.itch.io/ker-nethalas-into-the-midnight-throne)
-- [Witchy Woodland](https://domergue.itch.io/witchy-woodland)/[Witchier Woodland](https://domergue.itch.io/witchier-woodland)
+- [Witchy Woodland](https://domergue.itch.io/witchy-woodland)/[Witchier Woodland](https://domergue.itch.io/witchier-woodland) (free)
 - [Void 1680 AM](https://bannerlessgames.itch.io/void-1680-am)
 - [Downcrawl](https://aareed.itch.io/downcrawl-2e)
 ## Journaling Games
-- [One Day at a Thyme](https://postapocalypso.itch.io/one-day-at-a-thyme) + [One Night at a Thyme: Spooky Season](https://postapocalypso.itch.io/one-night-at-a-thyme-spooky-season)
+- [One Day at a Thyme](https://postapocalypso.itch.io/one-day-at-a-thyme) + [One Night at a Thyme: Spooky Season](https://postapocalypso.itch.io/one-night-at-a-thyme-spooky-season) (free)
 - [CHVLR](https://susanahgrace.itch.io/chvlr)
 - [Koriko: A Magical Year](https://mouseholepress.itch.io/koriko)
 - [Tangled Blessings](https://cassi-mothwin.itch.io/tangled-blessings) + [Echoes of Lost Electives](https://cassi-mothwin.itch.io/tangled-blessings-echoes-of-lost-electives)

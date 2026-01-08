@@ -5,7 +5,7 @@
 *Date: 2026-01-07 | Duration: 3 hrs*
 **Recap**: [[ttrpg/iron valley/first light/worldbuilding/characters/Lotus\|Lotus]] receives a transmission that might change his life.
 **Goals**: Set up the campaign, create character and setting.
-**Notes**:
+**Notes**: Returning to solo role playing after a while!
 
 ---
 
@@ -96,3 +96,15 @@ Coordinates. From an unknown sender.
 The transmission mentions an old farmhouse situated in an arcology, on a planet not too far from his location. According to him, he will arrive on the first day of Spring.
 That is the opportunity he was waiting for. A chance to let go of his old life and his old ways.
 Without thinking, he sets the autopilot to navigate to the coordinates from the transmission, and finally drifts into sleep.
+
+---
+
+## Post-Session Notes
+Welcome to the end of the first session - or rather, session zero - of my first campaign! It was very difficult for me to get started, but I finally managed.
+I got interested in solo role playing around two years ago, but never really started. And only now I finally sat down to prepare a campaign and play. It took a bit of courage on my part, to be completely honest.
+For this campaign, I'm going in blind. I still don't even know the full rules to the game itself. A re-read of the rule book is in order...
+Despite that, I had a hook - and, to be honest, only that - for the story I would like to tell. I'd like to be surprised by my rolls! And just roll (hah!) with it.
+If anyone is reading, I hope you enjoy reading my writings as much as I enjoy writing them. I like to take it slow, though, so probably updates will be infrequent. I don't really schedule my sessions, nor publication dates. I play whenever I feel like it.
+I would like to branch out to different games, but I don't want to have too much on my plate. I think it would be very overwhelming for me to handle. But I have a few games I would like to try! I was thinking of running a journaling game alongside this one. Something that's light and portable for when I'm not at my computer.
+I think the trick to get me to write was going analogue. I noticed that I write more when I use pen and paper. I much prefer writing by hand compared to typing. It helps with getting my creativity running as well.
+That being said, I've been enjoying writing my campaign - and, of course, playing it -. I feel like that's a very creative, relaxing, and cosy hobby to have, and a good creative writing excercise.
