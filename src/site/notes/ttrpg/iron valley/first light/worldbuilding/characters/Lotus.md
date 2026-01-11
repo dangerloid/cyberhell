@@ -31,15 +31,15 @@ wits: 3
 ## Skills
 (Current Satisfaction: )
 - Public Speaking
-	- [ ] +1 when using skill
+	- [x] +1 when using skill
 	- [ ] +1 tick on a hit
 	- [ ] **Time Passes** only on a Miss
 - Science
-	- [ ] +1 when using skill
+	- [x] +1 when using skill
 	- [x] +1 tick on a hit
 	- [ ] **Time Passes** only on a Miss
 - Performance
-	- [ ] +1 when using skill
+	- [x] +1 when using skill
 	- [ ] +1 tick on a hit
 	- [ ] **Time Passes** only on a Miss
 
