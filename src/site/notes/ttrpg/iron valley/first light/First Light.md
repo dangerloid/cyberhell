@@ -25,6 +25,8 @@ notes: Writing as I go, I only had the hook ready.
 ## Worldbuilding
 ### Characters
 - [[ttrpg/iron valley/first light/worldbuilding/characters/Lotus\|Lotus]]
+- [[ttrpg/iron valley/first light/worldbuilding/characters/Hera\|Hera]]
+- [[ttrpg/iron valley/first light/worldbuilding/characters/Dylan\|Dylan]]
 ### Locations
 - [[Oak Aerie\|Oak Aerie]]
 
