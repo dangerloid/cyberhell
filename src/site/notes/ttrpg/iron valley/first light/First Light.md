@@ -21,6 +21,7 @@ notes: Writing as I go, I only had the hook ready.
 
 ## Sessions
 - [[ttrpg/iron valley/first light/journal/FL-000 - Transmission from Nowhere\|FL-000 - Transmission from Nowhere]]
+- [[ttrpg/iron valley/first light/journal/FL-001 - Arrival and First Contact\|FL-001 - Arrival and First Contact]]
 ## Worldbuilding
 ### Characters
 - [[ttrpg/iron valley/first light/worldbuilding/characters/Lotus\|Lotus]]
