@@ -45,8 +45,17 @@ wits: 3
 
 ## Promises
 - name: Learn the history of the arcology. (6)
-	- (0)(0)(0)(0)(0)(0)(0)(0)(0)(0)
+	- (0)(0)(0)(0)(0)(0)
 - name: Find out who sent the transmission. (3)
-	- (0)(0)(0)(0)(0)(0)(0)(0)(0)(0)
+	- (0)(0)(0)
 - name: Fix the old farmhouse. (6)
-	- (0)(0)(0)(0)(0)(0)(0)(0)(0)(0)
+	- (0)(0)(0)(0)(0)(0)
+	- steps and notes:
+		1. cleaning
+		2. painting
+		3. fix the water system
+		4. fix the electricity system
+		5. fix the barn
+		6. prepare the soil for the crops
+- name: Automate watering the crops. (3)
+	- (0)(0)(0)
