@@ -2,14 +2,15 @@
 {"dg-publish":true,"permalink":"/ttrpg-wishlist/","dgShowInlineTitle":true}
 ---
 
-## Active Campaigns (as of 2026-01-08)
+## Active Campaigns (as of 2026-01-12)
 - [Iron Valley](https://mkirin.itch.io/iron-valley)
 	- [[ttrpg/iron valley/first light/First Light\|My campaign]]
+- [Ironsworn](https://shawn-tomkin.itch.io/ironsworn)
+	- [[ttrpg/ironsworn/living off the (iron) land/Living Off the (Iron) Land\|My campaign]]
 ## Tools
 - [Mythic Game Master Emulator 2e](https://wordmillgames.itch.io/mythic-game-master-emulator-second-edition)
 - [Random Realities](https://capacle.itch.io/random-realities)
 ## Solo Role Playing
-- [Ironsworn](https://shawn-tomkin.itch.io/ironsworn) (free)
 - [Rune](https://gilarpgs.itch.io/rune)
 - [Ker Nethalas](https://blackoath.itch.io/ker-nethalas-into-the-midnight-throne)
 - [Witchy Woodland](https://domergue.itch.io/witchy-woodland)/[Witchier Woodland](https://domergue.itch.io/witchier-woodland) (free)
