@@ -145,7 +145,7 @@ d: 1d100 = 31
 ↪ 😭
 ```
 Zura's first bond could be obvious to some, but it shouldn't be taken for granted, for her mother, Milla, is quite indifferent to her presence in her life.
-Milla is also a very busy woman, for she was elected overseer of Wolfcrag last spring, and has now papers to write, meetings to attend to, the works.
+Milla is also a very busy woman, for she is the overseer of Wolfcrag, and has papers to write, meetings to attend to, the works.
 And either way, she always favoured her brother...
 ```md
 ~ Zura's brother
@@ -178,7 +178,6 @@ Her trusty animal companion, the raven Poe, has been with her since she was but 
 In Zura's backpack there's a small collection of mystic texts, just enough to keep her occupied when she needs to stall, or during slow moments, such as travelling on a carriage or caravan or resting in a makeshift camp or in a new community. There's also a vial of ink, some paper and a quill, for recording her experiences.
 She wears a vest made out of thick cotton, and some pelts that her brother gifted her to withstand the cold and bitter winters. She also always wears iron earrings, the last remnant of her father, and relics from the Old World.
 Zura keeps a small knife in her boot. For self defence, although she can't fight, and in case she needs to do manual labour, like carving for example, though she doesn't have any idea on how to do it. I guess I'll learn in time, she thought, putting the knife in its place.
-
 ### Background Vow
 Zura's dream, ambition, goal in life is to see the world.
 Her mother forbade her to ever leave Wolfcrag, and, to avoid angering her, the villagers complied in never letting her venture out of the village entrance.
