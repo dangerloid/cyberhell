@@ -19,9 +19,7 @@ notes:
 ---
 
 ## Sessions
-## Worldbuilding
-### Characters
-### Locations
+- [[ttrpg/ironsworn/living off the (iron) land/journal/LOT(I)L-000 - Prelude in Iron\|LOT(I)L-000 - Prelude in Iron]]
 
 ---
 

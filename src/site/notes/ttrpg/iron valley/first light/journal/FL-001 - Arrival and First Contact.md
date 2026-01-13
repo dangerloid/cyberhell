@@ -3,7 +3,7 @@
 ---
 
 *Date: 2026-01-10 | Duration: 4hrs | Scenes: Spring 1, Early and Late Morning*
-**Recap**: [[ttrpg/iron valley/first light/worldbuilding/characters/Lotus\|Lotus]] finally arrives to [[Oak Aerie\|Oak Aerie]], and meets some people that help him.
+**Recap**: Lotus finally arrives to Oak Aerie, and meets some people that help him.
 **Goals**: Write about some days. Settle down and explore.
 **Notes**: Trying out an extra symbol for the notation.
 
@@ -49,7 +49,7 @@ Lotus finally arrives to the town's plaza. He registers the big, marbled buildin
 He looks around. He notices a lot of greenery in the plaza, mixed in with pipes...? That stark contrast hits him. The pipes seem to be both the energy and watering system, upon closer inspection. Lotus never thought that nature and technology could coexist to make something this beautiful, aesthetically pleasing, even. He might have to ask about this to a local, if he means to settle here.
 Hesitant, he finally knocks the door of the town hall, mind racing and heart beating.
 ```md
-~ Creating a Townie ~
+~ Creating a Townie
 ? Age
 d: 1d100 = 62
 -> Adult
@@ -113,14 +113,14 @@ d: 1d100 = 85
 -> The answer is yes.
 => They react positively.
 ```
-She turns to Lotus and smiles. "You don't have to worry. Sometimes it happens." Her voice is warm and soft, almost motherly. "My name is [[ttrpg/iron valley/first light/worldbuilding/characters/Hera\|Hera]]." She extends a hand to him.
+She turns to Lotus and smiles. "You don't have to worry. Sometimes it happens." Her voice is warm and soft, almost motherly. "My name is Hera." She extends a hand to him.
 To this reaction, Lotus also smiles warmly. "Nice to meet you, Hera. I'm Lotus." He shakes their hand gingerly. "Are you the mayor of this town?"
 "No, I'm only the secretary, and custodian of this very town hall," she says. "But I can notify that there's someone who's in need of the mayor. I just need you to tell me why."
 "I received a transmission on my spacecraft, Hayabusa. It had no sender, no message. It contained coordinates to the old farmhouse in the outskirts, bordering with the forest. I landed in a clearing next to it." Lotus breathes deeply. "I would like to know if it's inhabited, and if not, if I can move into it."
 Hera listens carefully to Lotus' story and reasoning. Then they say: "If I'm thinking about the right old farmhouse, it's run down enough that I'm pretty sure nobody currently lives there. It only needs cleaning and fixing. As for moving in it, you will have to ask the mayor." They smile again. "I, for one, would love to welcome you in our community."
 "Oooh, a new face!" Suddenly, a voice came from the other room.
 ```md
-~ Creating a Townie ~
+~ Creating a Townie
 ? Age
 d: 1d100 = 21
 -> Young Adult
@@ -149,7 +149,7 @@ d: 1d100 = 84
 -> Mayor
 ↪ A young mayor that's a tanuki and also uses any pronouns? I like it?
 ```
-"Ah, [[ttrpg/iron valley/first light/worldbuilding/characters/Dylan\|Dylan]]," Hera sighs. "You're also awake. Finally."
+"Ah, Dylan," Hera sighs. "You're also awake. Finally."
 "That's Mx. Mayor for you, Hera! You know that by now. I've been mayor for a month now, c'mon!" Dylan pouts. "And since I'm mayor, I can wake up when I want!"
 Lotus really doesn't know what to make of Dylan. They seem to be... hyper. Or rather, very enthusiastic. And annoying.
 Hera sighs, again. "That's exactly why you should be up earlier, Mx. Mayor. There's a lot of work to do and I can't do that alone." Then, she gestured towards Lotus. "This young man has a question for you, by the way. Will you make time to hear him out?"
@@ -164,7 +164,7 @@ The room itself is squeaky clean. Either Dylan is really meticulous in keeping i
 "You can absolutely call me Dylan. I just like to mess with Hera." Dylan says. Lotus looks at them, puzzled. "We go way back."
 They look at each other, then Dylan resumes speaking: "So, let's talk about why you're here. You're looking to move into Oak Aerie, right? That's the only part of the conversation i got, honestly. Do you mind giving me more details?"
 "Of course," Lotus replies. "My name is Lotus. I received a transmission from... no one?" There was info on who sent it, and I'd like to know who did. It contained coordinates pointing to a run down farmhouse next to town." Lotus takes a deep breath, then he keeps talking: "I'd like to move into the farm. I'll take care of the cleaning and the fixing. And also, I found a clearing not too far from the farm where I landed on Hayabusa, my spacecraft."
-"Hmm," Dylan, after a bit of reflecting, says: "So you're not from [[Itokawa\|Itokawa]]?"
+"Hmm," Dylan, after a bit of reflecting, says: "So you're not from Itokawa?"
 Lotus has never heard of that name before. "What is that?"
 "This planet," Dylan replies. "Its name is Itokawa."
 "Then no, I'm not from this planet."

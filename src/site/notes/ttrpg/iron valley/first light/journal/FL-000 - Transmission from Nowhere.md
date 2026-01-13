@@ -3,7 +3,7 @@
 ---
 
 *Date: 2026-01-07 | Duration: 3 hrs*
-**Recap**: [[ttrpg/iron valley/first light/worldbuilding/characters/Lotus\|Lotus]] receives a transmission that might change his life.
+**Recap**: Lotus receives a transmission that might change his life.
 **Goals**: Set up the campaign, create character and setting.
 **Notes**: Returning to solo role playing after a while!
 
