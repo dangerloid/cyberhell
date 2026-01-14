@@ -214,7 +214,7 @@ Then, Kova speaks: "Well done, everyone. They're now intimidated enough. Let's h
 They're after mother, Zura thinks. She should find her and warn her...
 But, where is she? Why didn't she dispatch our forces earlier? And, to add insult to injury, is she cowering somewhere else, waiting for the attack to die down? Why didn't she protect the village herself?
 "Reema, you're coming with us," Kova says, sternly.
-"Of course, father," Reema replies. Zura has never seen so obedient. What got into him?
+"Of course, father," Reema replies. Zura has never seen him being so obedient. What got into him?
 After the raiders left, she gets out of her small hiding place next to the family house and goes looking for Milla.
 "Mother." Zura finds her in a bush, just behind the smithy. She's trembling.
 "Ah, it's you." Milla tries to regain composure, but fails. "Help me get out. And be quick."
